@@ -22,7 +22,7 @@ focused on clean architecture, measurable results and user-first design.
 - 🎮 Author of **[RealG Optimizer](https://github.com/geraldojoao/windows-gaming-optimizer)** — a transparent Windows gaming performance tool with safe rollback, hardware detection and benchmark scoring
 - 📱 Building cross-platform apps with **Flutter + Dart**, including a full-featured Pokédex integrated with the PokeAPI
 - 🔧 Interested in Windows internals, registry automation, system performance and mobile UX
-- 📍 Brazil — open to remote opportunities
+- 📍 Brazil — open to opportunities
 
 ---
 
