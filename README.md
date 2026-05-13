@@ -2,14 +2,12 @@
 
 # João Geraldo
 
-Location: Brazil
-
-**Software Engineer · Windows Systems Enthusiast**
+**Flutter Developer · Windows Systems Enthusiast**
 
 Building cross-platform mobile apps and Windows performance tools —
 focused on clean architecture, measurable results and user-first design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https:www.linkedin.com/in/joaogeraldoneto])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogeraldoneto)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/geraldojoao)
 
@@ -22,7 +20,7 @@ focused on clean architecture, measurable results and user-first design.
 - 🎮 Author of **[RealG Optimizer](https://github.com/geraldojoao/windows-gaming-optimizer)** — a transparent Windows gaming performance tool with safe rollback, hardware detection and benchmark scoring
 - 📱 Building cross-platform apps with **Flutter + Dart**, including a full-featured Pokédex integrated with the PokeAPI
 - 🔧 Interested in Windows internals, registry automation, system performance and mobile UX
-- 📍 Brazil — open to opportunities
+- 📍 Brazil — open to remote opportunities
 
 ---
 
