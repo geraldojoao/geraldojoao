@@ -2,12 +2,14 @@
 
 # João Geraldo
 
-**Flutter Developer · Windows Systems Enthusiast**
+Location: Brazil
+
+**Software Engineer · Windows Systems Enthusiast**
 
 Building cross-platform mobile apps and Windows performance tools —
 focused on clean architecture, measurable results and user-first design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaogeraldoneto)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/geraldojoao)
 
